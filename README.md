@@ -25,7 +25,7 @@ It provides insights such as message statistics, activity patterns, word clouds,
 
  ## Steps
    1.Clone the repository:
-         git clone https://github.com/your-username/whatsapp-chat-analyzer.git cd whatsapp-chat-analyzer.
+         git clone [https://github.com/your-username/whatsapp-chat-analyzer.git cd whatsapp-chat-analyzer](https://github.com/7Rajverma/WhatsApp-Chat-Analyzer.git).
 
    2.Install the required dependencies:
          pip install -r requirements.txt
