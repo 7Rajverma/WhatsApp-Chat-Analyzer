@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer
 
-### Live Demo : https://whatsapp-chat-analyzer-p6l5.onrender.com
+### Live Demo 🔗 : https://whatsapp-chat-analyzer-p6l5.onrender.com
 
 ## Overview
 The WhatsApp Chat Analyzer is a Streamlit-based web application that helps users analyze their WhatsApp chat data. 
@@ -25,7 +25,7 @@ It provides insights such as message statistics, activity patterns, word clouds,
 
  ## Steps
    1.Clone the repository:
-         git clone [https://github.com/your-username/whatsapp-chat-analyzer.git cd whatsapp-chat-analyzer](https://github.com/7Rajverma/WhatsApp-Chat-Analyzer.git).
+         git clone 🔗: 
 
    2.Install the required dependencies:
          pip install -r requirements.txt
